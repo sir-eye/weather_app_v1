@@ -1,0 +1,23 @@
+/* src/components/Home.css */
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background-color: #f0f8ff;
+    text-align: center;
+  }
+  
+  .home-container h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .home-container p {
+    font-size: 1.5rem;
+    color: #555;
+    max-width: 600px;
+  }
+  
